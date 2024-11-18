@@ -49,10 +49,13 @@ print(abs(h1))  # 8
 
 # Untuk menggunakan Library "himpunan-team3" :
 lakukan instalasi dengan command berikut pada terminal (mac) / Command Prompt :
+
 ```pip install himpunan-team3==0.1.0```
 
 Jika hanya ingin import package dalam file : 
+
 ```from Himpunan import Himpunan```
+
 Link Pypi : https://pypi.org/project/himpunan-team3/0.1.0/
 
 # Created By Team 3 Himpunan Math Discrete : 
