@@ -64,8 +64,8 @@ Link Pypi : https://pypi.org/project/himpunan-team3/0.1.0/
 
 # Created By Team 3 Himpunan Math Discrete : 
 - Franklin Jaya | 0806022310016
-- Muh. Ryan Ardiansyah |
-- Tiffany Tjandinegara |
+- Muh. Ryan Ardiansyah | 0806022310019
+- Tiffany Tjandinegara | 0806022310027
 
 
 
